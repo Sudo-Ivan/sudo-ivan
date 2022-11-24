@@ -1,16 +1,19 @@
-### Hi there 👋
+## Greetings Everyone!
 
-<!--
-**Sudo-Ivan/sudo-ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love developing secure and privacy oriented applications using primarily Go, Python, and Rust.
 
-Here are some ideas to get you started:
+Occasioanlly I like to do a few data science projects using R and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I maintain a very broad skillset, and just jump around multiple different projects to keep me engaged and continuing to improve my workflow day by day.
+
+
+### **Check out my projects:**
+
+
+#### Go Projects 
+
+#### Rust Projects
+
+#### Python Projects
+
+#### R Projects
