@@ -9,6 +9,7 @@ I maintain a very broad skillset, and just jump around multiple different projec
 
 ### **Check out my projects:**
 
+##WIP please be patient 
 
 #### Go Projects 
 
