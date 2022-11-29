@@ -6,7 +6,7 @@ Founder of the to be best hosting company [Voltaic Hosting](voltaic.host)
 
 - I am big on Privacy and Security, and no not to the extreme-end lol.
 - I use **Rust, Go, and Typescript**
-- Occasioanlly I like to do a few data projects using R and Python.
+- Occasionally I like to do a few data projects using R and Python.
 - I maintain a very broad skillset
 - I always look to improve my skills, please call me out for shit code - thanks in advance.
 
