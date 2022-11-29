@@ -1,7 +1,15 @@
 ## Greetings Everyone!
 
-I love developing secure and privacy oriented applications using primarily Go, Python, and Rust.
+Founder of the to be best hosting company [Voltaic Hosting](voltaic.host)
 
-Occasioanlly I like to do a few data science projects using R and Python.
+**I will keep it simple:**
 
-I maintain a very broad skillset, and just jump around multiple different projects to keep me engaged and continuing to improve my workflow day by day.
+- I am big on Privacy and Security, and no not to the extreme-end lol.
+- I use **Rust, Go, and Typescript**
+- Occasioanlly I like to do a few data projects using R and Python.
+- I maintain a very broad skillset
+- I always look to improve my skills, please call me out for shit code - thanks in advance.
+
+**Some background on my hosting experience:**
+
+I started hosting servers when I was 14 for friends and family. Shortly after I hosted servers for communities. Now I want to bring a better platform to everyone. 
