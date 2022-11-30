@@ -1,6 +1,6 @@
 ## Greetings Everyone!
 
-Founder of the to be best hosting company [Voltaic Hosting](voltaic.host)
+Founder of the to be best hosting company [Voltaic Hosting](https://www.voltaic.host)
 
 **I will keep it simple:**
 
