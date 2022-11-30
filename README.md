@@ -14,6 +14,6 @@ I am new to the open-source community, looking to maintain and improve my skills
 
 **Some background on my hosting experience:**
 
-I started hosting servers when I was 14 (8 years ago) for friends and family. Shortly after I hosted servers for communities. Now I want to bring a better platform to everyone. 
+I started hosting servers when I was 14 (9 years ago) for friends and family. Shortly after I hosted servers for communities. Now I want to bring a better platform to everyone. 
 
 ### [Join my new discord](https://discord.gg/7HsqmvrqKG)
