@@ -17,3 +17,6 @@ I am new to the open-source community, looking to maintain and improve my skills
 I started hosting servers when I was 14 (9 years ago) for friends and family. Shortly after I hosted servers for communities. Now I want to bring a better platform to everyone. 
 
 ### [Join my new discord](https://discord.gg/7HsqmvrqKG)
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P1DY3Y2)
