@@ -6,8 +6,8 @@ I am new to the open-source community, looking to maintain and improve my skills
 
 **I will keep it simple:**
 
-- I am big on Privacy and Security. 
-- Born and raised in South Africa and moved to the United States.
+- I am a Privacy and Security enthusiast. 
+- Born and raised in South Africa and live in the United States.
 - I prefer to use **Rust, Go, and Typescript** but I also like mixing it up a bit.
 - Occasionally I like to do a few data projects using R and Python.
 
